@@ -1,7 +1,7 @@
 ### 메카톤 여름방학 프로젝트 1조
 
-![JBNU](https://img.shields.io/badge/JBNU-mecathon-9cf?style=for-the-badge&logo=appveyor)
-![DARKNET](https://img.shields.io/badge/darknet-yolo-brightgreen?style=for-the-badge&logo=appveyor)
+[![JBNU](https://img.shields.io/badge/JBNU-mecathon-9cf?style=for-the-badge&logo=appveyor)](https://www.jbnu.ac.kr/kor/)
+[![DARKNET](https://img.shields.io/badge/darknet-yolo-brightgreen?style=for-the-badge&logo=appveyor)](https://github.com/AlexeyAB/darknet)
 
 ### 전동킥보드 헬멧 유무 detection 프로젝트
 
