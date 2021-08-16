@@ -7,7 +7,7 @@
 
 - [ ] 프로젝트 설명 (yolov3, 과적합을 피하기 위해 추가 데이터 라벨링, yolov4 csp swish 사용)
 
-yolov3 = 123
+yolov3 = test
 - [ ] preprocessing 파일에 대한 설명 (preprocess는 셔플링, train_val은 셔플링 한 파일들을 9:1로 나눈 것)
 - [ ] test_map 폴더 설명 (각 3가지 모델의 map 설명)
 - [ ] train 폴더 설명 (안에 각각 코랩에서 진행했던 코드와 darknet 설정 파일이 있음)
